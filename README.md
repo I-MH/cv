@@ -18,19 +18,19 @@ My primary research interests lie in  (nonstationary) functional time series, an
             
 2018-2020.  **Post-Doctoral fellow**, King Abdullah University of Science and Technology (KAUST). PI - Distinguished Professor  Marc G. Genton
 
-# Education
+# 👨‍🎓 Education
 
 -  Jan 2014 - Dec 2017: **Ph.D. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico.
 -  Aug 2011 - July 2013: **M.S. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico.
 -  Aug 2006 - July 2011: **B.S.  in Mathematics**, University of Benito Juarez, UABJO, Oaxaca, Mexico. 
 
-# Career Achievements
+# 🏆 Career Achievements
 
 -  Member of National System of Researchers (SNI) in Mexico, Candidate level. 2020-2022.
 -  Second place, National contest of Junior Statistician. Mexican Statistical Association, 2014.
 -  Granted project (100,000 MXN): PADaJ Consulting (Performing Analysis for Decision-Making Judgment Consulting). Call for Entrepreneurship CIMAT-2015. 
 
-# Publications 
+# 📄 Publications 
 ## Published
 
 - **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022+). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
@@ -46,7 +46,7 @@ Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/bi
 - Baerenbold, O., Meis, M.,  **Martínez-Hernández, I.**, Euán, C., S. Burr, W., Tremper, A., Fuller, G., Pirani, M., and  Blangiardo, M. (2022c). A dependent Bayesian Dirichlet Process model for source apportionment of particle number size distribution.  *Environmetrics*.
 - **Martínez-Hernández, I.** and Killick, R. (2022d). Changepoint Estimation for Home Activity Data Using a Continuous Approach. *Statistics in Medicine*.
 
-# Teaching Experience
+# 👨‍🏫 Teaching Experience
 
 **At Lancaster University, UK**
 
