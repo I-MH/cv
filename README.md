@@ -1,8 +1,8 @@
 
 # Israel Martinez Hernandez
 
-[i.martinezhernandez@lancaster.ac.uk](i.martinezhernandez@lancaster.ac.uk) / [GitHub](https://github.com/Martinez-Hernandez/) / [ORCID](https://orcid.org/
-0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez)
+[i.martinezhernandez@lancaster.ac.uk](i.martinezhernandez@lancaster.ac.uk) / [GitHub](https://github.com/Martinez-Hernandez/) / 
+[orcid](https://orcid.org/0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez)
 
 
 # Research Interest
