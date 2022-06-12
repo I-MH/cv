@@ -19,9 +19,9 @@ My primary research interests lie in  (nonstationary) functional time series, an
 
 # Education
 
--  Jan 2014 - Dec 2017 **Ph.D. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico. Jan 2014 - Dec 2017
--  Aug 2011 - July 2013 **M.S. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico.
--  Aug 2006 - July 2011 **B.S.  in Mathematics**, University of Benito Juarez, UABJO, Oaxaca, Mexico. 
+-  Jan 2014 - Dec 2017: **Ph.D. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico. Jan 2014 - Dec 2017
+-  Aug 2011 - July 2013: **M.S. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico.
+-  Aug 2006 - July 2011: **B.S.  in Mathematics**, University of Benito Juarez, UABJO, Oaxaca, Mexico. 
 
 # Career Achievements
 
