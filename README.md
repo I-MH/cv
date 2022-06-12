@@ -1,7 +1,7 @@
 
 # Dr. Israel Martinez Hernandez
 
-_Senior Research Associate |  Lancaster University_ <br> 
+_Senior Research Associate at Lancaster University, UK_ <br> 
 
 [i.martinezhernandez@lancaster.ac.uk](i.martinezhernandez@lancaster.ac.uk) / [GitHub](https://github.com/Martinez-Hernandez/) / 
 [ORCID](https://orcid.org/0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez)
