@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: 💻✒️📄
 description: Israel Martinez Hernandez's CV
-number sections: true
+
+author:
+  name     : "Israel Martinez Hernandez"
+  avatar   : "/assets/images/bio-photo.jpg"
+  location : "Lancaster, UK"
