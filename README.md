@@ -13,7 +13,7 @@ My primary research interests lie in  (nonstationary) functional time series, an
 # Employment
 
 2021-Present.  **Senior Research Associate**, Lancaster University, Department of Mathematics Statistics. 
-  			    EPSRC funded ``Quantum Imaging for Monitoring of Wellbeing Disease in Communities.''  PI - Dr. Rebecca Killick
+  			    EPSRC funded "*Quantum Imaging for Monitoring of Wellbeing Disease in Communities*."  PI - Dr. Rebecca Killick
             
 2018-2020.  **Post-Doctoral fellow**, King Abdullah University of Science and Technology (KAUST). PI - Distinguished Professor  Marc G. Genton
 
