@@ -15,7 +15,7 @@ My primary research interests lie in:
  
 I have developed novel methodologies for large-scale and complex data by assuming that data are continuous functions. This approach allows analyzing data from different sources as well. Some examples of my research are related to the robust estimator on functional autoregressive model, modelling nonstationary functional time series, and modelling nonstationary spatio-temporal datasets.  <br>
 
-I am currently developing novel methodologies for healthcare technologies for 2050 @ [QUEST](https://healthcare-quest.com). This is a EPSRC funded project. <br><br> 
+I am currently developing novel methodologies for healthcare technologies for 2050 @ [QUEST](https://healthcare-quest.com). QUEST is a EPSRC funded project joint with colleagues at the University of Glasgow. <br><br> 
 
 I am also interested in environmental data science. 
 
