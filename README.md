@@ -11,7 +11,7 @@
 
 My primary research interests lie in  (nonstationary) functional time series, and (nonstationary) spatio-temporal  datasets. I have developed novel methodologies for large-scale and complex data by assuming that data are continuous functions. This approach allows analyzing data from different sources as well. Some examples of my research are related to the robust estimator on functional autoregressive model, modelling nonstationary functional time series, and modelling nonstationary spatio-temporal datasets. I am currently developing novel methodologies for healthcare technologies using the functional data approach. I am also interested in environmental data science. 
 
-# 👨‍💼 Employment
+# Employment
 
 2021-Present.  **Senior Research Associate**, Lancaster University, Department of Mathematics Statistics. 
   			    EPSRC funded "*Quantum Imaging for Monitoring of Wellbeing Disease in Communities*."  PI - Dr. Rebecca Killick
@@ -24,7 +24,7 @@ My primary research interests lie in  (nonstationary) functional time series, an
 -  Aug 2011 - July 2013: **M.S. in Probability and Statistics**, Center for Research in Mathematics, CIMAT,  Mexico.
 -  Aug 2006 - July 2011: **B.S.  in Mathematics**, University of Benito Juarez, UABJO, Oaxaca, Mexico. 
 
-# 🏆 Career Achievements
+# Career Achievements
 
 -  Member of National System of Researchers (SNI) in Mexico, Candidate level. 2020-2022.
 -  Second place, National contest of Junior Statistician. Mexican Statistical Association, 2014.
