@@ -1,8 +1,5 @@
 
-# Digital CV
-**Israel Martinez Hernandez** 
-
-**Senior Research Associate** |  Lancaster University 
+# Israel Martinez Hernandez
 
 [i.martinezhernandez@lancaster.ac.uk](i.martinezhernandez@lancaster.ac.uk) 
 
