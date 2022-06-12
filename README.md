@@ -29,7 +29,7 @@ My primary research interests lie in  (nonstationary) functional time series, an
 -  Second place, National contest of Junior Statistician. Mexican Statistical Association, 2014.
 -  Granted project (100,000 MXN): PADaJ Consulting (Performing Analysis for Decision-Making Judgment Consulting). Call for Entrepreneurship CIMAT-2015. 
 
-# Publications
+# Publications 
 ## Published
 
 - **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022+). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
