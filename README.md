@@ -7,11 +7,11 @@
 [ORCID](https://orcid.org/0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez)
 
 
-# Research Interest
+# 👨‍🔬 Research Interest
 
 My primary research interests lie in  (nonstationary) functional time series, and (nonstationary) spatio-temporal  datasets. I have developed novel methodologies for large-scale and complex data by assuming that data are continuous functions. This approach allows analyzing data from different sources as well. Some examples of my research are related to the robust estimator on functional autoregressive model, modelling nonstationary functional time series, and modelling nonstationary spatio-temporal datasets. I am currently developing novel methodologies for healthcare technologies using the functional data approach. I am also interested in environmental data science. 
 
-# Employment
+# 👨‍💼 Employment
 
 2021-Present.  **Senior Research Associate**, Lancaster University, Department of Mathematics Statistics. 
   			    EPSRC funded "*Quantum Imaging for Monitoring of Wellbeing Disease in Communities*."  PI - Dr. Rebecca Killick
