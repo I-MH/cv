@@ -59,21 +59,20 @@ Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/bi
 
 **At Lancaster University, UK**
 
-- 2022: Lecturer of MATH453/553 Modelling Multilevel and Longitudinal Data. This module was evaluated by the students with a mark of 4.3 out of 5. I obtained very positive feedbacks, and students liked how I explain the concepts.
+- 2022: Lecturer of MATH453/553 Modelling Multilevel and Longitudinal Data. 
 - 2021: Supervisor of two MSc Dissertations, Lancaster University. 
     - Analysing daily activity curves using functional data analysis and functional clustering. 
     - Comparison of Univariate Time Series Analysis with Functional Time Series Analysis for Modeling Particulate Matter Concentrations (PM10).
 
 **At CIMAT, Mexico**
 
-- 2021:  Lecturer of Time Series (Part II: Functional Time Series),  Master in Computational Statistics, CIMAT, Mexico. No
-student feedback collected. For this module, I prepared lecture notes and workshop notes.
+- 2021:  Lecturer of Time Series (Part II: Functional Time Series),  Master in Computational Statistics, CIMAT, Mexico. For this module, I prepared lecture notes and workshop notes.
 
-- 2013-2015. Teaching assistant, CIMAT, Mexico. MSc modules: Regression Models,  Time series,  Stochastic Models I, Stochastic Models II. I obtained very positive feedbacks. My  experience ranges through:
-    - Mark assignments and projects 
-    - Prepare weekly revision sessions
-    - Explain the solution of selected problems.
-    - Deliver R training courses   
+- 2013-2015. Teaching assistant, CIMAT, Mexico. MSc modules: Regression Models,  Time series,  Stochastic Models I, Stochastic Models II. My  experience ranges through:
+    - Marking assignments and projects 
+    - Preparing weekly revision sessions
+    - Explaining the solution of selected problems.
+    - Delivering R training courses   
 
 
 
