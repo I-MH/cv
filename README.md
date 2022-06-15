@@ -15,7 +15,9 @@ _Senior Research Associate at Lancaster University, UK_ <br>
  
 - I am highly motivated by real world problems such as data from  Environment, Energy, Health, and Engineering. <br>
 - I am excited  about  functional data analysis (FDA) approach, which I find very promising and flexible in modeling this type of data. FDA assumes that data are in the form of continuous functions and can overcome several challenges faced in real applications. Some topics I am interested in include:
-  -  modeling, hypothesis testing, 
+  -  modeling, 
+  -  exploratory data analysis,
+  -  hypothesis testing, 
   -  forecasting, 
   -  classification, and 
   -  efficient estimation.  <br>
