@@ -9,15 +9,18 @@ _Senior Research Associate at Lancaster University, UK_ <br>
 
 ## 👨‍🔬 Research Interest
 
-- My primary research interests lie in:
-  - (nonstationary) functional time series, and 
-  - (nonstationary) spatio-temporal  datasets. 
+- My primary research interests lie in developing novel statistical methodologies for analyzing:
+  -  large-scale and complex time series data, and
+  -  spatio-temporal data.
  
-- I have developed novel methodologies for large-scale and complex data by assuming that data are continuous functions. This approach allows analyzing data from different sources as well. Some examples of my research are related to the robust estimator on functional autoregressive model, modelling nonstationary functional time series, and modelling nonstationary spatio-temporal datasets.  <br>
+- I am highly motivated by real world problems such as data from  Environment, Energy, Health, and Engineering. <br>
+- I am excited  about  functional data analysis (FDA) approach, which I find very promising and flexible in modeling this type of data. FDA assumes that data are in the form of continuous functions and can overcome several challenges faced in real applications. Some topics I am interested in include:
+  -  modeling, hypothesis testing, 
+  -  forecasting, 
+  -  classification, and 
+  -  efficient estimation.  <br>
 
 - I am currently developing novel methodologies for healthcare technologies for 2050 @ [QUEST](https://healthcare-quest.com). QUEST is a EPSRC funded project joint with colleagues at the University of Glasgow. <br>
-
-- I am also interested in environmental data science. 
 
 
 ## Employment
