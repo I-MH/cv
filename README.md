@@ -47,7 +47,7 @@ _Senior Research Associate at Lancaster University, UK_ <br>
 ## 🗞️ Publications 
 ### Published
 
-- **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022+). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
+- **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
 - **Martínez-Hernández, I.**, and Genton, M. G. (2021). Nonparametric Trend Estimation in Functional Time Series with
 Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/biom.13353](https://doi.org/10.1111/biom.13353). [Rcode](https://github.com/Martinez-Hernandez/Nonparametric-Trend-Estimation-in-Functional-TS).
 - **Martínez-Hernández, I.**, and Genton, M. G. (2020). Recent Developments in Complex and Spatially Correlated Functional Data. *Brazilian Journal of Probability and Statistics*. [http://dx.doi.org/10.1214/20-BJPS466](http://dx.doi.org/10.1214/20-BJPS466)
