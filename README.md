@@ -45,7 +45,8 @@ _Senior Research Associate at Lancaster University, UK_ <br>
 ## 🗞️ Publications 
 ### Published
 
-- **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
+- Baerenbold, O., Meis, M.,  **Martínez-Hernández, I.**, Euán, C., S. Burr, W., Tremper, A., Fuller, G., Pirani, M., and  Blangiardo, M. (2022b). A dependent Bayesian Dirichlet Process model for source apportionment of particle number size distribution.  *Environmetrics*.
+- **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022a). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
 - **Martínez-Hernández, I.**, and Genton, M. G. (2021). Nonparametric Trend Estimation in Functional Time Series with
 Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/biom.13353](https://doi.org/10.1111/biom.13353). [Rcode](https://github.com/Martinez-Hernandez/Nonparametric-Trend-Estimation-in-Functional-TS).
 - **Martínez-Hernández, I.**, and Genton, M. G. (2020). Recent Developments in Complex and Spatially Correlated Functional Data. *Brazilian Journal of Probability and Statistics*. [http://dx.doi.org/10.1214/20-BJPS466](http://dx.doi.org/10.1214/20-BJPS466)
@@ -53,10 +54,8 @@ Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/bi
 
 ### Under review
 
-- **Martínez-Hernández, I.**, and Genton, M. G. (2022a). Functional Time Series Analysis Based on Records.  *Journal of Time Series Analysis*. [https://arxiv.org/pdf/1909.06083.pdf](https://arxiv.org/pdf/1909.06083.pdf). [Rcode](https://github.com/Martinez-Hernandez/Functional-Records).
-- **Martínez-Hernández, I.** and Genton, M. G. (2022b). Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets.  *Spatial Statistics*.
-- Baerenbold, O., Meis, M.,  **Martínez-Hernández, I.**, Euán, C., S. Burr, W., Tremper, A., Fuller, G., Pirani, M., and  Blangiardo, M. (2022c). A dependent Bayesian Dirichlet Process model for source apportionment of particle number size distribution.  *Environmetrics*.
-- **Martínez-Hernández, I.** and Killick, R. (2022d). Changepoint Estimation for Home Activity Data Using a Continuous Approach. *Statistics in Medicine*.
+- **Martínez-Hernández, I.** and Genton, M. G. (2022a). Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets.  *Spatial Statistics*.
+- **Martínez-Hernández, I.** and Killick, R. (2022b). Changepoint Estimation for Home Activity Data Using a Continuous Approach. *Statistics in Medicine*.
 
 ## 👨‍🏫 Teaching Experience
 
