@@ -45,6 +45,7 @@ _Senior Research Associate at Lancaster University, UK_ <br>
 ## 🗞️ Publications 
 ### Published
 
+- **Martínez-Hernández, I.** and Genton, M. G. (2022c). Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets.  *Spatial Statistics*. [https://doi.org/10.1016/j.spasta.2022.100718](https://doi.org/10.1016/j.spasta.2022.100718).
 - Baerenbold, O., Meis, M.,  **Martínez-Hernández, I.**, Euán, C., S. Burr, W., Tremper, A., Fuller, G., Pirani, M., and  Blangiardo, M. (2022b). A dependent Bayesian Dirichlet Process model for source apportionment of particle number size distribution.  *Environmetrics*. [https://doi.org/10.1002/env.2763](https://doi.org/10.1002/env.2763).
 - **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022a). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
 - **Martínez-Hernández, I.**, and Genton, M. G. (2021). Nonparametric Trend Estimation in Functional Time Series with
@@ -54,7 +55,6 @@ Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/bi
 
 ### Under review
 
-- **Martínez-Hernández, I.** and Genton, M. G. (2022a). Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets.  *Spatial Statistics*.
 - **Martínez-Hernández, I.** and Killick, R. (2022b). Changepoint Estimation for Home Activity Data Using a Continuous Approach. *Statistics in Medicine*.
 
 ## 👨‍🏫 Teaching Experience
