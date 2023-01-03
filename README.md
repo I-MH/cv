@@ -1,7 +1,7 @@
 
 # Dr. Israel Martinez Hernandez
 
-_Senior Research Associate at Lancaster University, UK_ <br> 
+_Lecturer/Assistant Professor in Statitics, Lancaster University, Mathematics and Statistics, UK_ <br> 
 
 [i.martinezhernandez@lancaster.ac.uk](i.martinezhernandez@lancaster.ac.uk) / [GitHub](https://github.com/Martinez-Hernandez/) / 
 [ORCID](https://orcid.org/0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez)
@@ -25,7 +25,9 @@ _Senior Research Associate at Lancaster University, UK_ <br>
 
 ## Employment
 
-2021-Present.  **Senior Research Associate**, Lancaster University, Department of Mathematics Statistics. 
+2023-present. **Lecturer/Assistant Professor in Statitics**, Lancaster University, Department of Mathematics Statistics. 
+
+2021-2022.  **Senior Research Associate**, Lancaster University, Department of Mathematics Statistics. 
   			    EPSRC funded "*Quantum Imaging for Monitoring of Wellbeing Disease in Communities*."  PI - Dr. Rebecca Killick
             
 2018-2020.  **Post-Doctoral fellow**, King Abdullah University of Science and Technology (KAUST). PI - Distinguished Professor  Marc G. Genton
