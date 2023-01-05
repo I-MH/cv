@@ -76,7 +76,7 @@ Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/bi
     - Marking assignments and projects 
     - Preparing weekly revision sessions
     - Explaining the solution of selected problems.
-    - Delivering R training courses   
+    - Delivering R training courses    
 
 
 
