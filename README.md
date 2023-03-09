@@ -4,7 +4,7 @@
 _Lecturer/Assistant Professor in Statitics, Lancaster University, Mathematics and Statistics, UK_ <br> 
 
 [i.martinezhernandez@lancaster.ac.uk](i.martinezhernandez@lancaster.ac.uk) / [GitHub](https://github.com/I-MH/) / 
-[ORCID](https://orcid.org/0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=ytFmFigAAAAJ&view_op=list_works&sortby=pubdate)
+[ORCID](https://orcid.org/0000-0002-4122-2529) / [LinkedIn](www.linkedin.com/in/israel-martinez-hernandez/) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=ytFmFigAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## 👨‍🔬 Research Interest
