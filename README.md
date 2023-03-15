@@ -20,7 +20,7 @@ _Lecturer/Assistant Professor in Statitics, Lancaster University, Mathematics an
   -  forecasting, 
   -  classification, and 
   -  efficient estimation.
-- I am currently developing novel methodologies for healthcare technologies for 2050 @ [QUEST](https://healthcare-quest.com). QUEST is a EPSRC funded project joint with colleagues at the University of Glasgow. <br>
+- Part of my current project involves developing novel methodologies for healthcare technologies for 2050 @ [QUEST](https://healthcare-quest.com). QUEST is a EPSRC funded project joint with colleagues at the University of Glasgow. <br>
 
 
 ## Employment
