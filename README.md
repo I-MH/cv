@@ -47,7 +47,9 @@ _Lecturer/Assistant Professor in Statitics, Lancaster University, Mathematics an
 ## 🗞️ Publications 
 ### Published
 
-- **Martínez-Hernández, I.** and Genton, M. G. (2022c). Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets.  *Spatial Statistics*. [https://doi.org/10.1016/j.spasta.2022.100718](https://doi.org/10.1016/j.spasta.2022.100718).
+- **Martínez-Hernández, I.** and Killick, R. (2025). Changepoint Detection on Daily Home Activity Pattern: A Sliced Poisson Process Method. *Biometrics*.
+- **Martínez-Hernández, I.** and Genton, M. G. (2024). Functional Time Series Analysis and Visualization Based on Records. *Journal of Computational and Graphical Statistics*. 
+- **Martínez-Hernández, I.** and Genton, M. G. (2023). Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets.  *Spatial Statistics*. [https://doi.org/10.1016/j.spasta.2022.100718](https://doi.org/10.1016/j.spasta.2022.100718).
 - Baerenbold, O., Meis, M.,  **Martínez-Hernández, I.**, Euán, C., S. Burr, W., Tremper, A., Fuller, G., Pirani, M., and  Blangiardo, M. (2022b). A dependent Bayesian Dirichlet Process model for source apportionment of particle number size distribution.  *Environmetrics*. [https://doi.org/10.1002/env.2763](https://doi.org/10.1002/env.2763).
 - **Martínez-Hernández, I.**, Gonzalo, J., and Gonzaléz-Farías, G. (2022a). Nonparametric Estimation of Functional Dynamic Factor Model. *Journal of Nonparametric Statistics*. [https://doi.org/10.1080/10485252.2022.2080825](https://doi.org/10.1080/10485252.2022.2080825). [Rcode](https://github.com/Martinez-Hernandez/Functional-Factor-Model).
 - **Martínez-Hernández, I.**, and Genton, M. G. (2021). Nonparametric Trend Estimation in Functional Time Series with
@@ -55,9 +57,6 @@ Application to Annual Mortality Rates. *Biometrics*. [https://doi.org/10.1111/bi
 - **Martínez-Hernández, I.**, and Genton, M. G. (2020). Recent Developments in Complex and Spatially Correlated Functional Data. *Brazilian Journal of Probability and Statistics*. [http://dx.doi.org/10.1214/20-BJPS466](http://dx.doi.org/10.1214/20-BJPS466)
 - **Martínez-Hernández, I.**, Genton, M. G., and Gonzaléz-Farías, G. (2019). Robust depth-based estimation of the functional autoregressive model. *Computational Statistics & Data Analysis*. [https://doi.org/10.1016/j.csda.2018.06.003](https://doi.org/10.1016/j.csda.2018.06.003)
 
-### Under review
-
-- **Martínez-Hernández, I.** and Killick, R. (2022b). Changepoint Estimation for Home Activity Data Using a Continuous Approach. *Statistics in Medicine*.
 
 ## 👨‍🏫 Teaching Experience
 
