@@ -22,18 +22,6 @@ _Lecturer/Assistant Professor in Statitics, Lancaster University, Mathematics an
   -  efficient estimation.
 - Part of my current project involves developing novel methodologies for healthcare technologies for 2050 @ [QUEST](https://healthcare-quest.com). QUEST is a EPSRC funded project joint with colleagues at the University of Glasgow. <br>
 
-## Two column table
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum table 1 ...</td>
-    <td>Lorem ipsum table 2, lets see ...</td>
- </tr>
-</table>
 
 ## Employment
 
